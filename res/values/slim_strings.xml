@@ -31,8 +31,6 @@
 
     <!-- GZ settings screens -->
     <string name="interface_settings_title">Interface</string>
-    <string name="navigation_settings_title">Navigation</string>
-    <string name="slim_center_title">The Void</string>
 
     <!-- Color Picker -->
     <string name="dialog_color_picker">Color Picker</string>
@@ -497,6 +495,7 @@ two in order to insert additional control points. \'Remove\' deletes the selecte
 
     <!-- Navigation settings -->
     <string name="navigation_settings_options_title">Navigation options</string>
+	<string name="navigation_settings_title">Navigation</string>
     <string name="power_menu_title">Global menu</string>
 
     <!-- Power menu -->
